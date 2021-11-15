@@ -2,6 +2,10 @@
 
 to minimize the impact of transaction fees, to maximize security - and to make the most out of opportunities, we propose a novel multisig wallet, that exists onchain, and can act autonomous - as the DAO - votes
 
+following ERC 1155
+
+using merkle proofs to reduce storage costs
+
 ## register identities 
 possible ways to do this: 
 * https://w3c.github.io/did-core/
