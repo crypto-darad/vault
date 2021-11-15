@@ -2,9 +2,34 @@
 
 to minimize the impact of transaction fees, to maximize security - and to make the most out of opportunities, we propose a novel multisig wallet, that exists onchain, and can act autonomous - as the DAO - votes
 
-following ERC 1155
+## read 
+* https://github.com/miguelmota/solidity-idiosyncrasies
+* https://medium.com/@childsmaidment/stateless-smart-contracts-21830b0cd1b6
+* https://github.com/miguelmota/awesome-amazon-alexa
+* https://github.com/masaun/dao-decision-making-by-condional-token
+* https://github.com/degen-vc
+* https://github.com/degen-vc/rock3t-core-contracts
 
-using merkle proofs to reduce storage costs
+
+
+* https://medium.com/degen-vc/liquid-vault-248779b58cfe
+
+## make use of
+* following ERC 1155
+* using merkle proofs to reduce storage costs
+* stateless "dumb contract" + data filter backend 
+
+## sound of the future
+* decentralized data-filters - to mine tokens
+* https://github.com/miguelmota/ethereum-input-data-decoder
+
+implement strategies like: 
+
+* https://github.com/masaun/arbitrage-btw-wbtc-and-eth
+* https://github.com/masaun/NFT-auth-token
+* https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon
+* https://github.com/orgs/hop-protocol/repositories
+
 
 ## register identities 
 possible ways to do this: 
@@ -35,5 +60,6 @@ and as soon as a trade happens - the contract of the flTokens - unwraps the orig
 ### benefits: 
 
 * security
-* every flToken can be stoped for transfer, it can change its value - based on market-conditions. 
+* every flToken can be stopped for transfer, it can change its value - based on market-conditions. 
+
 
