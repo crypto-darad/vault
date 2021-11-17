@@ -31,10 +31,17 @@ implement strategies like:
 * https://github.com/orgs/hop-protocol/repositories
 
 
+
+
+
 ## register identities 
 possible ways to do this: 
 * https://w3c.github.io/did-core/
 * auth - token - nft
+* EIP: 1056
+* https://www.uport.me/
+* 
+
 
 ## vault-wallet
 * create vault smart contract - deposited tokens can be swapped against "flexible liquidity"
