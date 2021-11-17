@@ -12,7 +12,14 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 
 
 
+* https://github.com/ethereum/dapp-bin/blob/master/wallet/wallet.sol
+
 * https://medium.com/degen-vc/liquid-vault-248779b58cfe
+
+## security
+* https://hackingdistributed.com/2017/07/20/parity-wallet-not-alone/
+
+* https://ethereum.github.io/yellowpaper/paper.pdf
 
 ## make use of
 * following ERC 1155
@@ -29,6 +36,7 @@ implement strategies like:
 * https://github.com/masaun/NFT-auth-token
 * https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon
 * https://github.com/orgs/hop-protocol/repositories
+* https://eips.ethereum.org/EIPS/eip-712
 
 
 
