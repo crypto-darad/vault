@@ -28,6 +28,8 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 * stateless "dumb contract" + data filter backend 
 * https://docs.graphlinq.io/introduction
 * https://chainlist.org/
+* https://www.raidguild.org/
+
 
 
 ## sound of the future
