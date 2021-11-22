@@ -30,6 +30,13 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 * https://chainlist.org/
 * https://www.raidguild.org/
 
+## app development 
+* https://theme-ui.com/styling-mdx
+* https://github.com/KyleAMathews/typography.js
+* https://styled-system.com/
+* https://rebassjs.org/getting-started
+* https://lingui.js.org/index.html
+
 
 
 ## sound of the future
