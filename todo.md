@@ -2,6 +2,10 @@
 
 to minimize the impact of transaction fees, to maximize security - and to make the most out of opportunities, we propose a novel multisig wallet, that exists onchain, and can act autonomous - as the DAO - votes
 
+
+# VC’s operate primary on the 80/19/1 principle:
+
+
 ## read 
 * https://github.com/miguelmota/solidity-idiosyncrasies
 * https://medium.com/@childsmaidment/stateless-smart-contracts-21830b0cd1b6
@@ -9,12 +13,9 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 * https://github.com/masaun/dao-decision-making-by-condional-token
 * https://github.com/degen-vc
 * https://github.com/degen-vc/rock3t-core-contracts
-
-
-
 * https://github.com/ethereum/dapp-bin/blob/master/wallet/wallet.sol
-
 * https://medium.com/degen-vc/liquid-vault-248779b58cfe
+* https://docs.blockscout.com/
 
 ## security
 * https://hackingdistributed.com/2017/07/20/parity-wallet-not-alone/
@@ -25,6 +26,7 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 * following ERC 1155
 * using merkle proofs to reduce storage costs
 * stateless "dumb contract" + data filter backend 
+* https://docs.graphlinq.io/introduction
 
 ## sound of the future
 * decentralized data-filters - to mine tokens
