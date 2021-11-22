@@ -27,6 +27,8 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 * using merkle proofs to reduce storage costs
 * stateless "dumb contract" + data filter backend 
 * https://docs.graphlinq.io/introduction
+* https://chainlist.org/
+
 
 ## sound of the future
 * decentralized data-filters - to mine tokens
