@@ -20,11 +20,16 @@ to minimize the impact of transaction fees, to maximize security - and to make t
 ## inspiration
 * https://docs.olympusdao.finance/main/whitepapers/economic-productivity
 * https://docs.olympusdao.finance/main/basics/basics#what-is-the-deal-with-3-3-and-1-1
+* https://intrinsicresearch.substack.com/p/intrinsic-value-model-for-digital
+* https://medium.com/ledgercapital/the-fat-protocol-thesis-debated-65ad56285fd5
 
 ## security
 * https://hackingdistributed.com/2017/07/20/parity-wallet-not-alone/
 
 * https://ethereum.github.io/yellowpaper/paper.pdf
+
+
+
 
 ## make use of
 * following ERC 1155
