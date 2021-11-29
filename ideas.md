@@ -24,3 +24,6 @@
 * https://ts.gluon.ai/index.html
 * https://www.kaggle.com/yamqwe/g-research-avoid-overfit-feature-neutralization/
 * https://arxiv.org/pdf/1911.11423v2.pdf - single headed attention
+
+# keep up with
+* http://www.arxiv-sanity.com/toptwtr
