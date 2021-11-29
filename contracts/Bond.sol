@@ -10,4 +10,6 @@ contract Bond {
 
     }
 
+    function burn(uint24 amount)
+
 }
