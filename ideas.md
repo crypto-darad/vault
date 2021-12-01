@@ -14,6 +14,11 @@
 * https://trueblocks.io/docs/
 * https://api3.org/
 * https://github.com/modular-network/ethereum-libraries
+* https://docs.blocknative.com/
+
+
+# user connection frameworks
+* https://docs.blocknative.com/onboard
 
 # for tax tracking
 * https://rotki.readthedocs.io/en/latest/usage_guide.html
@@ -27,3 +32,13 @@
 
 # keep up with
 * http://www.arxiv-sanity.com/toptwtr
+
+
+# dex traing protocols 
+* https://docs.gnosis.io/protocol/docs/introduction1/
+* https://github.com/studydefi/money-legos
+
+
+# python tools
+
+* https://github.com/gnosis/gnosis-py/
